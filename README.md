@@ -20,5 +20,5 @@ Thanks Quý Minh Trương For Github Post
 **Chọn Như Hình và click Apply**
 ![GitHub Logo](/Img/4.png)
 
-**Cuối cùng chép đè thư mục interface trong file nén PhongVuong.zip vào tắt game chạy lại
+**Cuối cùng chép đè thư mục interface trong file nén PhongVuong.zip vào tắt game chạy lại**
 [Link Tải Và Phím Tắt](https://github.com/IoT-VN/PhongVuong/releases/tag/v1.0)
