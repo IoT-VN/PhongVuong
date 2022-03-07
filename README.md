@@ -1,8 +1,6 @@
 # Phong Vương Plugin
-Plugin Kiếm Thế Hỏa Phụng Code By Phong Vương
 
-Thanks Quý Minh Trương For Github Post
-
+Plugin Kiếm Thế Hỏa Phụng Code MM2512
 
 -Download Tệp Nén PhongVuong.zip và giải nén được folder interface
 
